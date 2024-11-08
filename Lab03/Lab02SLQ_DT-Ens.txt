@@ -24,7 +24,7 @@ I. Algorithms implementation
     I.5. Splitting feature selection
     I.6. Stopping criterion
     I.7. Final product
-II. Application and Analsis
+II. Application and Analysis
     II.1. Decision trees and Random forests
     II.2. Ensemle Learning
   
