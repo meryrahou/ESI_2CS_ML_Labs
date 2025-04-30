@@ -4,6 +4,10 @@
 
 This repository encompasses a series of laboratory exercises from the second-year Computer Science program at the Ecole Nationale Supérieure d'Informatique (ESI), Algiers. The labs delve into fundamental machine learning concepts and algorithms, providing practical experience with various ML techniques.
 
+## Status
+
+This repository is complete and reflects the curriculum of the SID specialization. No further updates are planned.
+
 ## Repository Structure
 
 The repository is organized into directories, each corresponding to a specific lab:
